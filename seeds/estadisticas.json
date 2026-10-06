@@ -1,0 +1,30 @@
+[
+    {
+        "id": "est-especies",
+        "clave": "especies",
+        "valor": "7",
+        "etiqueta": "especies de tortugas marinas en el mundo",
+        "orden": 1
+    },
+    {
+        "id": "est-anios",
+        "clave": "aparicion",
+        "valor": "+100",
+        "etiqueta": "millones de años desde su aparición",
+        "orden": 2
+    },
+    {
+        "id": "est-amenazadas",
+        "clave": "amenazadas",
+        "valor": "6 de 7",
+        "etiqueta": "especies consideradas amenazadas",
+        "orden": 3
+    },
+    {
+        "id": "est-desove",
+        "clave": "desove",
+        "valor": "1.000 km",
+        "etiqueta": "recorre una tortuga para desovar cada temporada",
+        "orden": 4
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "esp-verde",
+        "slug": "verde",
+        "nombre": "Tortuga verde",
+        "etiqueta": "La más rápida",
+        "emoji": "🐢",
+        "descripcion": "Habita en mares tropicales y se alimenta principalmente de algas. Puede nadar a gran velocidad y alcanzar un metro de largo.",
+        "orden": 1,
+        "amenazada": true
+    },
+    {
+        "id": "esp-carey",
+        "slug": "carey",
+        "nombre": "Tortuga carey",
+        "etiqueta": "La gigante",
+        "emoji": "🐢",
+        "descripcion": "Con su caparazón con motivo de cuadro (carey), es una de las más amenazadas. Puede vivir más de 50 años en libertad.",
+        "orden": 2,
+        "amenazada": true
+    },
+    {
+        "id": "esp-lauda",
+        "slug": "lauda",
+        "nombre": "Lauda",
+        "etiqueta": "La viajera",
+        "emoji": "🐢",
+        "descripcion": "La más grande de todas: puede superar los 600 kg. Emprende enormes travesías entre el Atlántico y el Mediterráneo.",
+        "orden": 3,
+        "amenazada": true
+    },
+    {
+        "id": "esp-cabezona",
+        "slug": "cabezona",
+        "nombre": "Tortuga cabezona",
+        "etiqueta": "La picuda",
+        "emoji": "🐢",
+        "descripcion": "Reconocible por su cabeza grande y su pico con forma de pico de loro, ideal para romper corales y conchas.",
+        "orden": 4,
+        "amenazada": true
+    },
+    {
+        "id": "esp-lora",
+        "slug": "lora",
+        "nombre": "Tortuga lora",
+        "etiqueta": "La más rápida nadadora",
+        "emoji": "🐢",
+        "descripcion": "Pequeña y ágil, con un caparazón flexible que le permite moverse con gran agilidad para escapar de depredadores.",
+        "orden": 5,
+        "amenazada": true
+    },
+    {
+        "id": "esp-bastarda",
+        "slug": "bastarda",
+        "nombre": "Tortuga bastarda",
+        "etiqueta": "Las costas",
+        "emoji": "🐢",
+        "descripcion": "Prefiere aguas poco profundas y fondos arenosos. Es la especie más común en muchas costas del Mediterráneo.",
+        "orden": 6,
+        "amenazada": false
+    },
+    {
+        "id": "esp-banon",
+        "slug": "banon",
+        "nombre": "Tortuga bañón",
+        "etiqueta": "La incansable",
+        "emoji": "🐢",
+        "descripcion": "Vive en el Atlántico occidental, desde Estados Unidos hasta México. Anida en grandes agrupaciones sobre la arena de una sola playa.",
+        "orden": 7,
+        "amenazada": true
+    }
+]

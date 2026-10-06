@@ -1,0 +1,12 @@
+{
+    "id": "esp-lauda",
+    "slug": "lauda",
+    "nombre": "Lauda",
+    "etiqueta": "La viajera",
+    "emoji": "🐢",
+    "descripcion": "La más grande de todas: puede superar los 600 kg. Emprende enormes travesías entre el Atlántico y el Mediterráneo.",
+    "orden": 3,
+    "amenazada": true,
+    "created_at": "2026-09-30T14:51:54Z",
+    "updated_at": "2026-09-30T17:18:22Z"
+}

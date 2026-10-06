@@ -1,0 +1,30 @@
+[
+    {
+        "id": "prot-plastico",
+        "titulo": "Reduce el plástico",
+        "texto": "Las bolsas y el plástico flotante confunden a las tortugas con las medusas, su alimento favorito.",
+        "icono": "🗑️",
+        "orden": 1
+    },
+    {
+        "id": "prot-playas",
+        "titulo": "Cuida las playas",
+        "texto": "Retira la basura y evita dejar huecos o montículos: las tortugas necesitan arena limpia para anidar.",
+        "icono": "🏖️",
+        "orden": 2
+    },
+    {
+        "id": "prot-luces",
+        "titulo": "Apaga las luces",
+        "texto": "Las crías siguen la luz del mar al salir del nido. La iluminación artificial las desorienta.",
+        "icono": "💡",
+        "orden": 3
+    },
+    {
+        "id": "prot-distancia",
+        "titulo": "Respeta la distancia",
+        "texto": "Si las ves en el mar, observa sin tocarlas ni perseguirlas: el estrés puede afectar su comportamiento.",
+        "icono": "🤿",
+        "orden": 4
+    }
+]

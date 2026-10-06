@@ -1,0 +1,7 @@
+{
+    "id": "002_usuarios_backoffice",
+    "descripcion": "Crea la colección de usuarios del BackOffice.",
+    "archivo": "002_usuarios_backoffice.php",
+    "created_at": "2026-09-30T17:05:46Z",
+    "updated_at": "2026-09-30T17:05:46Z"
+}

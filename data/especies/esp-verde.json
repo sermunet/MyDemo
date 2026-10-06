@@ -1,0 +1,12 @@
+{
+    "id": "esp-verde",
+    "slug": "verde",
+    "nombre": "Tortuga verde",
+    "etiqueta": "La más rápida",
+    "emoji": "🐢",
+    "descripcion": "Habita en mares tropicales y se alimenta principalmente de algas. Puede nadar a gran velocidad y alcanzar un metro de largo.",
+    "orden": 1,
+    "amenazada": true,
+    "created_at": "2026-09-30T14:51:54Z",
+    "updated_at": "2026-09-30T17:18:22Z"
+}

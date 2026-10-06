@@ -1,0 +1,37 @@
+[
+    {
+        "id": "cur-mapa",
+        "titulo": "Saben a dónde ir.",
+        "texto": "Regresan a la misma playa donde nacieron para poner sus huevos, incluso después de décadas.",
+        "icono": "🌍",
+        "orden": 1
+    },
+    {
+        "id": "cur-temperatura",
+        "titulo": "La temperatura decide el sexo.",
+        "texto": "La temperatura de la arena durante la incubación determina si nacen machos o hembras.",
+        "icono": "🥚",
+        "orden": 2
+    },
+    {
+        "id": "cur-sueno",
+        "titulo": "Dormitan bajo el agua.",
+        "texto": "Algunas especies pueden permanecer inmóviles en el fondo marino hasta 5 horas sin respirar.",
+        "icono": "💤",
+        "orden": 3
+    },
+    {
+        "id": "cur-iman",
+        "titulo": "Se orientan con el campo magnético.",
+        "texto": "Perciben la inclinación magnética de la Tierra para guiarse en sus largos viajes.",
+        "icono": "🧲",
+        "orden": 4
+    },
+    {
+        "id": "cur-crecimiento",
+        "titulo": "Crecen toda su vida.",
+        "texto": "Su caparazón no tiene un tamaño máximo fijo: sigue engrosando lentamente con la edad.",
+        "icono": "⏳",
+        "orden": 5
+    }
+]
