@@ -1,0 +1,10 @@
+{
+    "id": "admin",
+    "nombre": "Administrador",
+    "email": "admin@localhost.test",
+    "password_hash": "$2y$12$ebQsxa2kBAgfMHycpIdqWuZaWA4v/rhUchfWzgb.ZMmZB3CBqUhLO",
+    "rol": "admin",
+    "activo": true,
+    "created_at": "2026-09-30T17:05:46Z",
+    "updated_at": "2026-10-06T13:35:11Z"
+}

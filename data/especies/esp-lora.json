@@ -1,0 +1,12 @@
+{
+    "id": "esp-lora",
+    "slug": "lora",
+    "nombre": "Tortuga lora",
+    "etiqueta": "La más rápida nadadora",
+    "emoji": "🐢",
+    "descripcion": "Pequeña y ágil, con un caparazón flexible que le permite moverse con gran agilidad para escapar de depredadores.",
+    "orden": 5,
+    "amenazada": true,
+    "created_at": "2026-09-30T14:51:54Z",
+    "updated_at": "2026-10-06T13:35:11Z"
+}

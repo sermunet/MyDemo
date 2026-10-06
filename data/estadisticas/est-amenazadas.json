@@ -1,0 +1,9 @@
+{
+    "id": "est-amenazadas",
+    "clave": "amenazadas",
+    "valor": "6 de 7",
+    "etiqueta": "especies consideradas amenazadas",
+    "orden": 3,
+    "created_at": "2026-09-30T14:51:54Z",
+    "updated_at": "2026-10-06T13:35:11Z"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "esp-bastarda",
+    "slug": "bastarda",
+    "nombre": "Tortuga bastarda",
+    "etiqueta": "Las costas",
+    "emoji": "🐢",
+    "descripcion": "Prefiere aguas poco profundas y fondos arenosos. Es la especie más común en muchas costas del Mediterráneo.",
+    "orden": 6,
+    "amenazada": false,
+    "created_at": "2026-09-30T14:51:54Z",
+    "updated_at": "2026-10-06T13:35:11Z"
+}

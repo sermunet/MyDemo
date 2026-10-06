@@ -1,0 +1,24 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local y secretos: NUNCA se versionan (AGENTS.md §8).
+# En Vercel no existen: la configuración llega por variables de entorno.
+config/config.php
+config/.session.key
+
+# /.gitignore
+# OJO: /data NO se ignora. En este despliegue es el almacén documental que
+# sirve la web, así que tiene que viajar en el repositorio para que Vercel lo
+# empaquete. Para regenerarlo desde cero están seeds/ y migrations/.
+
+# Fichero de bloqueo de la base de datos documental (se crea en tiempo de
+# ejecución y no debe forme parte del repositorio).
+data/.lock
+data/**/*.tmp.*
+
+# Vercel
+.vercel
+
+# Node (la CLI de Vercel es la única que lo necesita)
+node_modules/

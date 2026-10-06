@@ -1,9 +1,0 @@
-{
-    "id": "cur-temperatura",
-    "titulo": "La temperatura decide el sexo.",
-    "texto": "La temperatura de la arena durante la incubación determina si nacen machos o hembras.",
-    "icono": "🥚",
-    "orden": 2,
-    "created_at": "2026-09-30T14:51:54Z",
-    "updated_at": "2026-09-30T17:18:22Z"
-}

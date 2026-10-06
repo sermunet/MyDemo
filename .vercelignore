@@ -1,0 +1,25 @@
+# Ficheros que NO se suben al despliegue de Vercel.
+#
+# OJO: cuando existe .vercelignore, la CLI de Vercel deja de usar .gitignore,
+# así que aquí hay que repetir todo lo que no debe desplegarse: si se olvida,
+# acabaría subido config/config.php con la configuración local.
+
+.git
+.gitignore
+.DS_Store
+
+# Configuración local y secretos (AGENTS.md §8)
+config/config.php
+config/.session.key
+
+# Ficheros temporales de la base de datos documental
+data/.lock
+data/**/*.tmp.*
+
+# Node
+node_modules/
+.vercel
+
+# Documentación de trabajo para agentes (no hace falta en el despliegue)
+AGENTS.md
+MEMORY.md

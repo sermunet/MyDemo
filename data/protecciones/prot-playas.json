@@ -1,0 +1,9 @@
+{
+    "id": "prot-playas",
+    "titulo": "Cuida las playas",
+    "texto": "Retira la basura y evita dejar huecos o montículos: las tortugas necesitan arena limpia para anidar.",
+    "icono": "🏖️",
+    "orden": 2,
+    "created_at": "2026-09-30T14:51:54Z",
+    "updated_at": "2026-10-06T13:35:11Z"
+}

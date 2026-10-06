@@ -1,9 +1,0 @@
-{
-    "id": "prot-luces",
-    "titulo": "Apaga las luces",
-    "texto": "Las crías siguen la luz del mar al salir del nido. La iluminación artificial las desorienta.",
-    "icono": "💡",
-    "orden": 3,
-    "created_at": "2026-09-30T14:51:54Z",
-    "updated_at": "2026-09-30T17:18:22Z"
-}

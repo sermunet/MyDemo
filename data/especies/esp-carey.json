@@ -1,0 +1,12 @@
+{
+    "id": "esp-carey",
+    "slug": "carey",
+    "nombre": "Tortuga carey",
+    "etiqueta": "La gigante",
+    "emoji": "🐢",
+    "descripcion": "Con su caparazón con motivo de cuadro (carey), es una de las más amenazadas. Puede vivir más de 50 años en libertad.",
+    "orden": 2,
+    "amenazada": true,
+    "created_at": "2026-09-30T14:51:54Z",
+    "updated_at": "2026-10-06T13:35:11Z"
+}
